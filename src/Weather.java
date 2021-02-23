@@ -3,7 +3,7 @@
  */
 
 public class Weather {
-
+	// Weather 
 	// calcAvg this method will return the average of temps given in an array
 	// ignoring temps up to 50 and under 50 
 	//@temps the array input  
